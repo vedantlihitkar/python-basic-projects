@@ -1,12 +1,18 @@
-# 🐍 Python Basic Projects
+# Python Basic Projects 🐍
 
+This repository contains some basic Python projects created for learning and practice.
 
-## 📂 Included Projects
+## 📁 Projects
 
-project included ->
+- **Guess the Number** – A simple game where you guess a randomly selected number.
+- **Library Management System** – A command-line tool to manage books in a library.
+- **Rock Paper Scissors** – Play the classic game against the computer.
+- **Snake Water Gun Game** – A fun twist on Rock Paper Scissors.
+- **Speech Recognition Assistant** – Uses your voice to interact with an AI assistant.
 
-1.snake water gun game 
-2.guess the number 
-3.library management system
-4.rock paper scissor
-5.speach recognition assistant
+## 🔧 Requirements
+
+Some projects need the following Python libraries:
+
+```bash
+pip install openai pyttsx3 SpeechRecognition
